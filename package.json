@@ -11,6 +11,7 @@
   "dependencies": {
     "@lottiefiles/dotlottie-react": "^0.6.4",
     "@splinetool/react-spline": "^2.2.6",
+    "@vercel/analytics": "^1.5.0",
     "html2pdf.js": "^0.10.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
